@@ -4,4 +4,5 @@ criando passa o a passo como navegar no git
 
 pode se abrir o git bash e ir navegando através dele de pasta em pasta, e também pode abrir o git bash ja na pasta desejada assim encurtando caminho.
 
-ao abir o git bash, usamos o comando ls para identificar os arquivos naquela pasta e usa o comando cd para acessar as pasta desejada. Ao fazer  alterações 
+ao abir o git bash, usamos o comando ls para identificar os arquivos naquela pasta e usa o comando cd para acessar as pasta desejada. 
+Ao fazer  alterações usamos o comando git status e identificamos arquivos modifeld, o proximo comando a ser utilizado  é git add * onde vai adicionar esse arquivo modificado, o proximo passo é fazer um commit , usando o git commit -m" ***** " e passando um titulo referente as alterações feitas, novamente daremos o comando git status para verificar as allterações, estando tudo ok, daremos o comando git push origin master que irá empurrar o commit para o github. caso haja algum erro de um repositorio em que você não tem em sua maquina terá que dar o comando git pull origin master que irá puxar.. 
