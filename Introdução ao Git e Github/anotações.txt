@@ -1,1 +1,7 @@
 Git é um terminal extendido para o github
+
+criando passa o a passo como navegar no git
+
+pode se abrir o git bash e ir navegando através dele de pasta em pasta, e também pode abrir o git bash ja na pasta desejada assim encurtando caminho.
+
+ao abir o git bash, usamos o comando ls para identificar os arquivos naquela pasta e usa o comando cd para acessar as pasta desejada. Ao fazer  alterações 
